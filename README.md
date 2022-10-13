@@ -23,3 +23,4 @@ Grant-CsApplicationAccessPolicy -PolicyName Test-policy -Global
 
 Clean up, if execution policy was changed:
 Set-ExecutionPolicy Restricted
+
