@@ -30,7 +30,7 @@ Grant-CsApplicationAccessPolicy -PolicyName {policyName} -Identity "{identity}"
 
 
 
-For tenant global:
+For tenant global grant:
 Grant-CsApplicationAccessPolicy -PolicyName Test-policy -Global
 
 
